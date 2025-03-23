@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Pantheon78
-- 👀 I’m interested in hardware,software ,hacking,program
+- 👀 I’m interested in hardware,software ,programmng
 - 🌱 I’m currently learning ...computer engineering 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source  projects, AI, embedded systems,web development,robotics IOT
 - 📫 How to reach me telegram @qween
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love solving complex problems and automating tasks for efficiency and also like working with microcontrollers
 
 <!---
 Pantheon78/Pantheon78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
